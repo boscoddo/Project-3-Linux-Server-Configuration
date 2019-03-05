@@ -8,8 +8,9 @@ This project was to configure a Linux Web Server to host my web Sports Catalog a
 - Installed and configure Apache to serve a Python mod_wsgi application.  
 - Installed and configure PostgreSQL for database setup.
 - Installed git
-- Create a user account name: grader / pass: grader and gave sudo access.
-- Create a database user name: catalog / pass: catalog that has limited permissions to my catalog database only.
+- Create a user account name: grader and gave sudo access.
+  - ssh grader@54.68.158.48 -p 2200 -i ~/.ssh/XXXXXXXXXX
+- Create a database user name: catalog (pass: catalog) that has limited permissions to my catalog database only.
 
 ## IP Addresses
 - Linux Server: 54.68.158.48
