@@ -1,6 +1,7 @@
 # Project 3: Linux Server Configuration
 ## Description
 This project was to configure a Linux Web Server to host my web Sports Catalog application that I created in Project 2.  
+Software that I that installed for this project includes Linux Ubuntu, python, PostgreSQL, git, Apache, ufw, apt, finger, and libapache2-mod-wsgi-py3
 
 ## Linux Configurations
 - The Linux server instance that I selected is Amazon Lightsail.
@@ -18,6 +19,13 @@ This project was to configure a Linux Web Server to host my web Sports Catalog a
 - HTTP (port 80)
 - NTP (port 123)
 - Complete URL: http://54.68.158.48.xip.io
+
+## Third Party Resources
+- Amazon LightSail
+- Linux Ubuntu
+- Putty
+- GitBash
+- Sublime
 
 ## How to run
 * 1. Open Chrome Browser to http://54.68.158.48.xip.io to view the app.
